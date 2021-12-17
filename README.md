@@ -33,3 +33,4 @@ Software Chasers
 - Members of community to decide whether they want to compete in the elections or not.
 - Client side interface for remaining slides.
 - The treasurers can propose to mint coins, the other treasurers have the right to veto it.
+- Connect smart contract with client side interface.
